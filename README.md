@@ -1,2 +1,4 @@
 # KingStTradingCo
-Website for a Defi Website
+Website for a Defi Company located in San Francisco
+
+MADE IN AMERICA 
